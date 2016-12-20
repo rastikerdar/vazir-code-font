@@ -41,15 +41,16 @@ pre, code {
 
 ## Install
 
+#### Download
 Grab the [latest release](https://github.com/rastikerdar/vazir-code-font/releases/latest) file.
 
-Or you can get it on bower:
-
+#### Bower
 ```
 bower install vazir-code-font --save
 ```
 
-Or [RawGit](https://rawgit.com) CDN:
+#### CDN
+Link fonts from the [RawGit](https://rawgit.com) CDN:
 
 ```html
 <link href="https://cdn.rawgit.com/rastikerdar/vazir-code-font/v[X.Y.Z]/dist/font-face.css" rel="stylesheet" type="text/css" />
@@ -61,3 +62,10 @@ Replace [X.Y.Z] with the latest version (e.g. 1.0.2) and integrate the font into
 font-family: 'Vazir Code', monospaced;
 ```
 
+#### Homebrew
+You can install the font on macOS machines by tapping the caskroom/fonts repo:  
+
+```shell
+brew tap caskroom/fonts
+brew install font-vazir-code
+```
