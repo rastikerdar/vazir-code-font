@@ -2,11 +2,12 @@
 A Persian (Farsi) Monospaced Font
 
 <p dir="rtl">
-فونت فارسی وزیرکد از نوع Monospaced یا تک فاصله ترکیب شده با فونت Inconsolata
+فونت فارسی وزیرکد از نوع Monospaced یا تک‌فاصله 
+ترکیب شده با فونت‌های Inconsolata و Hack
 <br />
 
 <a href="http://rastikerdar.github.io/vazir-code-font/">نمایش فونت</a> <br />
-<a href="https://github.com/rastikerdar/vazir-code-font/releases">صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot</a> <br />
+<a href="https://github.com/rastikerdar/vazir-code-font/releases">صفحه دریافت (دانلود) بسته فونت شامل فایل‌های ttf,woff,eot</a> <br />
 
 با تشکر از برنامه <a href="https://fontforge.github.io">FontForge</a><br />
 
@@ -34,8 +35,17 @@ A Persian (Farsi) Monospaced Font
   font-weight: normal;
 }
 
+@font-face {
+  font-family: Vazir Code Hack;
+  src: url('Vazir-Code-Hack.eot');
+  src: url('Vazir-Code-Hack.eot?#iefix') format('embedded-opentype'),
+       url('Vazir-Code-Hack.woff') format('woff'),
+       url('Vazir-Code-Hack.ttf') format('truetype');
+  font-weight: normal;
+}
+
 pre, code {
-  font-family: 'Vazir Code', monospaced;
+  font-family: 'Vazir Code', 'Vazir Code Hack', monospaced;
 }
 ```
 
@@ -56,7 +66,7 @@ Link fonts from the [RawGit](https://rawgit.com) CDN:
 <link href="https://cdn.rawgit.com/rastikerdar/vazir-code-font/v[X.Y.Z]/dist/font-face.css" rel="stylesheet" type="text/css" />
 ```
 
-Replace [X.Y.Z] with the latest version (e.g. 1.0.2) and integrate the font into your CSS:
+Replace [X.Y.Z] with the latest version (e.g. 1.1.0) and integrate the font into your CSS:
 
 ```
 font-family: 'Vazir Code', monospaced;

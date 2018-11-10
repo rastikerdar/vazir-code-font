@@ -6,3 +6,12 @@
        url('Vazir-Code.ttf') format('truetype');
   font-weight: normal;
 }
+
+@font-face {
+  font-family: Vazir Code Hack;
+  src: url('Vazir-Code-Hack.eot');
+  src: url('Vazir-Code-Hack.eot?#iefix') format('embedded-opentype'),
+       url('Vazir-Code-Hack.woff') format('woff'),
+       url('Vazir-Code-Hack.ttf') format('truetype');
+  font-weight: normal;
+}
