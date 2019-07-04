@@ -1,0 +1,19 @@
+{
+  "name": "vazir-code-font",
+  "version": "1.1.2",
+  "author": "Saber Rastikerdar <saber.rastikerdar@gmail.com>",
+  "license": "Public Domain",
+  "description": "A Persian (farsi) Monospaced Font for coding - فونت (قلم) فارسی وزیرکد برای کد نویسی ",
+  "keywords": ["font", "farsi", "persian", "monospaced"],
+  "scripts": {
+    "test": "echo \"visit http://rastikerdar.github.io/vazir-code-font/\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rastikerdar/vazir-code-font"
+  },
+  "bugs": {
+    "url": "https://github.com/rastikerdar/vazir-code-font/issues"
+  },
+  "homepage": "https://github.com/rastikerdar/vazir-code-font#readme"
+}
