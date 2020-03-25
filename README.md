@@ -87,3 +87,25 @@ Arch user's could use [vazir-code-fonts](https://aur.archlinux.org/packages/vazi
 ```shell
 pacaur -S vazir-code-fonts
 ```
+
+
+#### Linux
+gnu/inux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install vazir-code font.
+
+ubuntu users must install this dependensies too:
+```
+sudo apt install openssl libssl-dev
+````
+
+##### install kateb
+```
+sudo cpan kateb
+```
+and
+```
+kateb install vazircode
+```
+or
+```
+kateb update vazircode
+```
