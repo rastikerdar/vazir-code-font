@@ -89,18 +89,10 @@ pacaur -S vazir-code-fonts
 ```
 
 
-#### Linux
-gnu/inux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install vazir-code font.
+#### GNU/Linux
+gnu/linux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install vazir-code font.
 
-ubuntu users must install this dependensies too:
 ```
-sudo apt install openssl libssl-dev
-````
-
-##### install kateb
-```
-sudo cpan kateb
-
 kateb install vazircode
 or
 kateb update vazircode
