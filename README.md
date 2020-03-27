@@ -87,3 +87,13 @@ Arch user's could use [vazir-code-fonts](https://aur.archlinux.org/packages/vazi
 ```shell
 pacaur -S vazir-code-fonts
 ```
+
+
+#### GNU/Linux
+gnu/linux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install vazir-code font.
+
+```
+kateb install vazircode
+or
+kateb update vazircode
+```
