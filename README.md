@@ -80,7 +80,7 @@ brew tap caskroom/fonts
 brew install font-vazir-code
 ```
 
-####Arch Linux
+#### Arch Linux
 
 Arch user's could use [vazir-code-fonts](https://aur.archlinux.org/packages/vazir-code-fonts/) package from [AUR](https://aur.archlinux.org/) repository to install vazir-code font. Use your favourite [AUR helper](https://wiki.archlinux.org/index.php/AUR_helpers) like pacaur or yaourt for installing package:
 
