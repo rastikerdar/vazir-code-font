@@ -54,19 +54,15 @@ pre, code {
 #### Download
 Grab the [latest release](https://github.com/rastikerdar/vazir-code-font/releases/latest) file.
 
-#### Bower
-```
-bower install vazir-code-font --save
-```
 
 #### CDN
 Link fonts from the [RawGit](https://rawgit.com) CDN:
 
 ```html
-<link href="https://cdn.rawgit.com/rastikerdar/vazir-code-font/v[X.Y.Z]/dist/font-face.css" rel="stylesheet" type="text/css" />
+<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-code-font@v1.1.2/dist/font-face.css" rel="stylesheet" type="text/css" />
 ```
 
-Replace [X.Y.Z] with the latest version (e.g. 1.1.2) and integrate the font into your CSS:
+and integrate the font into your CSS:
 
 ```
 font-family: 'Vazir Code', monospaced;
