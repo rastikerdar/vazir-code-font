@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Vazir Code;
+  src: url('Vazir-Code-WOL.eot');
+  src: url('Vazir-Code-WOL.eot?#iefix') format('embedded-opentype'),
+       url('Vazir-Code-WOL.woff') format('woff'),
+       url('Vazir-Code-WOL.ttf') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Vazir Code Hack;
+  src: url('Vazir-Code-Hack-WOL.eot');
+  src: url('Vazir-Code-Hack-WOL.eot?#iefix') format('embedded-opentype'),
+       url('Vazir-Code-Hack-WOL.woff') format('woff'),
+       url('Vazir-Code-Hack-WOL.ttf') format('truetype');
+  font-weight: normal;
+}
