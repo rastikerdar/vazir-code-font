@@ -1,6 +1,8 @@
 # Vazir-Code-Font
 A Persian (Farsi) Monospaced Font
 
+## توسعه این پروژه متوقف و بایگانی شده است. این موضوع شامل تمامی ابعاد پروژه از طراحی گرفته تا رفع اشکال می‌شود.
+
 <p dir="rtl">
 فونت فارسی وزیرکد از نوع Monospaced یا تک‌فاصله 
 ترکیب شده با فونت‌های Inconsolata و Hack
