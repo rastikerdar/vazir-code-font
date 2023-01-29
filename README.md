@@ -61,7 +61,7 @@ Grab the [latest release](https://github.com/rastikerdar/vazir-code-font/release
 Link fonts from the [RawGit](https://rawgit.com) CDN:
 
 ```html
-<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-code-font@v1.1.2/dist/font-face.css" rel="stylesheet" type="text/css" />
+<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-code-font@v1.1.4/dist/font-face.css" rel="stylesheet" type="text/css" />
 ```
 
 and integrate the font into your CSS:
