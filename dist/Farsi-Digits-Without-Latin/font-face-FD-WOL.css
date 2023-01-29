@@ -5,6 +5,7 @@
        url('Vazir-Code-FD-WOL.woff') format('woff'),
        url('Vazir-Code-FD-WOL.ttf') format('truetype');
   font-weight: normal;
+  font-display: swap;
 }
 
 @font-face {
@@ -14,4 +15,5 @@
        url('Vazir-Code-Hack-FD-WOL.woff') format('woff'),
        url('Vazir-Code-Hack-FD-WOL.ttf') format('truetype');
   font-weight: normal;
+  font-display: swap;
 }
